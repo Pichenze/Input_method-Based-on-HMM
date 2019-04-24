@@ -1,0 +1,2 @@
+运行DynamicKeyBoard.py即可运行
+重新训练：修改MyViterbi中的Get_Params，reloaded为true即可
